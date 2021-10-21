@@ -4,13 +4,13 @@ by: Khadejaa Saad Alshehri
 
 --------
 ## Abstract
-The goal of this project was to use classification models to predict the sentiment analysis of Arabic tweets in order to facilitate capturing public opinions on a topic, product, or service. We used ASAD public dataset which is intended to accelerate research in Arabic NLP in general, and Arabic sentiment classification in specific. We applied different ML & DL models to achieve different results for this multiclass problem.
+The goal of this project was to use classification models to predict the sentiment analysis of Arabic tweets in order to facilitate capturing public opinions on a topic, product, or service. We used [ASAD](https://www.kaggle.com/c/arabic-sentiment-analysis-2021-kaust/data) public dataset which is intended to accelerate research in Arabic NLP in general, and Arabic sentiment classification in specific. We applied different ML & DL models to achieve different results for this multiclass problem.
 
 ## Design
 This project originates from the Arabic Sentiment Analysis competition. The data is provided by CAUST presents a three-class positive, negative or neutral for each tweet. Classifying sentiment accurately via ML & DL models would improve research and applications of Arabic NLP.
 
 ## Data
-ASAD consists of 95,000 annotated tweets, with three-class sentiments. ASAD has a total of 15,215 positive tweets, 15,267 negative tweets, and 64,518 neutral tweets.
+[ASAD](https://www.kaggle.com/c/arabic-sentiment-analysis-2021-kaust/data) consists of 95,000 annotated tweets, with three-class sentiments. ASAD has a total of 15,215 positive tweets, 15,267 negative tweets, and 64,518 neutral tweets.
 
 ## Algorithms
 _word represention_
